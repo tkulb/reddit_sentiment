@@ -346,6 +346,7 @@ model = gs.best_estimator_
 
 
 #6. toxicworldcloud of results with Reddit logo for data visualization
+#need to find a good reddit logo picture
 stopwords = nltk.corpus.stopwords.words('english')
 
 
