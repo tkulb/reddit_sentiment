@@ -266,6 +266,8 @@ common_words_time
 #4. Score each subreddit and post with pre-trained word embeddings for sentiment
 #    , could take avg of the whole subreddit as well
 
+#consider using VADER instead of google cloud languag because it is free.
+
 #need to do a pip install google-cloud-language
     #https://cloud.google.com/natural-language/docs/sentiment-tutorial
 
